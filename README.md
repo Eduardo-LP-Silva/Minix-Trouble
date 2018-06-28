@@ -73,4 +73,4 @@ After that, you'll need to copy the file in the "Conf" folder to the following d
 You'll also need to copy the file in the "Lib" folder to home/lcom/svn/proj/src, "proj" being the name of the game folder (it is
 advisable to not change this name).
 
-Finally, navigate to home/lcom/svn/proj/src, execute the make command, followe by run 'pwd'/proj. That's it, the game should start now!
+Finally, navigate to home/lcom/svn/proj/src, execute the make command, followed by run 'pwd'/proj. That's it, the game should start now!
