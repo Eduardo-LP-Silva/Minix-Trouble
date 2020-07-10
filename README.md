@@ -62,15 +62,3 @@ original function to map the image to an auxiliar buffer instead of the original
 allowing the cursor in the screen to "catch up" with the real life movement.
 
 * During the game itself, if the player moves too close to the edges of the map, some visual bugs might occur.
-
-## How to install
-
-First of, this application will only work in Minix based operating systems. To set it up, you'll need to create a "lcom" folder in the
-home directory, and a second one named "svn" in this new directory (/home/lcom/svn).
-
-After that, you'll need to copy the file in the "Conf" folder to the following directory: /etc/system.conf.d
-
-You'll also need to copy the file in the "Lib" folder to home/lcom/svn/proj/src, "proj" being the name of the game folder (it is
-advisable to not change this name).
-
-Finally, navigate to home/lcom/svn/proj/src, execute the make command, followed by run 'pwd'/proj. That's it, the game should start now!
