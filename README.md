@@ -4,8 +4,8 @@
 
 ## Overview
 
-This is a game developed during the course "Computer Laboratory" (LCOM) at FEUP, based on the Minix operating system. It was inspired
-by 90s arcade games and the this course in particular.
+This is a time-management game based on the Minix operating system, inspired
+by 90s arcade games.
 
 In this game, the player controls a character whose main objective is to keep the servers running in good condition, more specifically, to make sure
 there is at least one server running at a time. In order to accomplish this, the player must reactive any downed servers individually.
